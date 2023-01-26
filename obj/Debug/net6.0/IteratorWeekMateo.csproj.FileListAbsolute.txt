@@ -1,0 +1,15 @@
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/bin/Debug/net6.0/IteratorWeekMateo
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/bin/Debug/net6.0/IteratorWeekMateo.deps.json
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/bin/Debug/net6.0/IteratorWeekMateo.runtimeconfig.json
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/bin/Debug/net6.0/IteratorWeekMateo.dll
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/bin/Debug/net6.0/IteratorWeekMateo.pdb
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/obj/Debug/net6.0/IteratorWeekMateo.csproj.AssemblyReference.cache
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/obj/Debug/net6.0/IteratorWeekMateo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/obj/Debug/net6.0/IteratorWeekMateo.AssemblyInfoInputs.cache
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/obj/Debug/net6.0/IteratorWeekMateo.AssemblyInfo.cs
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/obj/Debug/net6.0/IteratorWeekMateo.csproj.CoreCompileInputs.cache
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/obj/Debug/net6.0/IteratorWeekMateo.dll
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/obj/Debug/net6.0/refint/IteratorWeekMateo.dll
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/obj/Debug/net6.0/IteratorWeekMateo.pdb
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/obj/Debug/net6.0/IteratorWeekMateo.genruntimeconfig.cache
+/Users/mateoavila/Documents/UDLA/Semestre 2023-10/Programación 4/IteratorWeekMateo/obj/Debug/net6.0/ref/IteratorWeekMateo.dll
